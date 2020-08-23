@@ -1,0 +1,14 @@
+D:\Документы\Проекты\CoalTracking\Convertcoding\Convertcoding\bin\Debug\Convertcoding.exe.config
+D:\Документы\Проекты\CoalTracking\Convertcoding\Convertcoding\bin\Debug\Convertcoding.exe
+D:\Документы\Проекты\CoalTracking\Convertcoding\Convertcoding\bin\Debug\Convertcoding.pdb
+D:\Документы\Проекты\CoalTracking\Convertcoding\Convertcoding\obj\Debug\Convertcoding.csprojAssemblyReference.cache
+D:\Документы\Проекты\CoalTracking\Convertcoding\Convertcoding\obj\Debug\Convertcoding.csproj.CoreCompileInputs.cache
+D:\Документы\Проекты\CoalTracking\Convertcoding\Convertcoding\obj\Debug\Convertcoding.exe
+D:\Документы\Проекты\CoalTracking\Convertcoding\Convertcoding\obj\Debug\Convertcoding.pdb
+C:\Users\TigranVChi\Desktop\KirillCTS\Convertcoding\Convertcoding\bin\Debug\Convertcoding.exe.config
+C:\Users\TigranVChi\Desktop\KirillCTS\Convertcoding\Convertcoding\bin\Debug\Convertcoding.exe
+C:\Users\TigranVChi\Desktop\KirillCTS\Convertcoding\Convertcoding\bin\Debug\Convertcoding.pdb
+C:\Users\TigranVChi\Desktop\KirillCTS\Convertcoding\Convertcoding\obj\Debug\Convertcoding.csprojAssemblyReference.cache
+C:\Users\TigranVChi\Desktop\KirillCTS\Convertcoding\Convertcoding\obj\Debug\Convertcoding.csproj.CoreCompileInputs.cache
+C:\Users\TigranVChi\Desktop\KirillCTS\Convertcoding\Convertcoding\obj\Debug\Convertcoding.exe
+C:\Users\TigranVChi\Desktop\KirillCTS\Convertcoding\Convertcoding\obj\Debug\Convertcoding.pdb
