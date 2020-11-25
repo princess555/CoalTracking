@@ -24,6 +24,7 @@ namespace Class_1_lesson
         {
             point = new Point[4];
 
+
             point[0] = p1;
             point[1] = p2;
             point[2] = p3;
