@@ -30,6 +30,8 @@ namespace Class_1_lesson
             point[2] = p3;
             point[3] = p4;
 
+
+
             Types = "Квадрат";
         }
 
