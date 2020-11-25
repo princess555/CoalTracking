@@ -36,8 +36,7 @@ namespace Class_1_lesson
         public Figure(Point p1, Point p2, Point p3, Point p4, Point p5)
         {
             point = new Point[5];
-
-            point[0] = p1;
+                        point[0] = p1;
             point[1] = p2;
             point[2] = p3;
             point[3] = p4;
